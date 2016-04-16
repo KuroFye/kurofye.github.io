@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angus Pollmann portfolio</title>
+    <description>game/mechanics/gameplay designer</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Finally starting!</title>
+        <description>&lt;p&gt;I’ve been about to start this site many times, but i didn’t wanted to do so before i had something to show as my own work. And now i have.&lt;/p&gt;
+
+&lt;p&gt;This is a site about my work as game designer and the progress of my projects, as well as a place to keep the links to where they’re stored (and their corresponding updates). It will not be updated very often, but when progress has been made or there’s something important going on.&lt;/p&gt;
+
+&lt;p&gt;This will also be where i’ll keep my status on what i’m working on and where to contact me, so anything you need, just send an email, it’s in the bottom of the site.&lt;/p&gt;
+
+&lt;p&gt;I will use random images on each post, just so it doesn’t seem too boring as a wall of text.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/hbm0cPy.gif&quot; alt=&quot;alt text&quot; title=&quot;I love Mass Effect btw&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 -0300</pubDate>
+        <link>/starting-site/</link>
+        <guid isPermaLink="true">/starting-site/</guid>
+      </item>
+    
+  </channel>
+</rss>
