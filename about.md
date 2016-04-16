@@ -1,7 +1,6 @@
 ---
 layout: margin_content
 title: About me
-permalink: /about/
 ---
 
 My name is Angus Pollmann, 24, born and raised in Chile. My mother language is Spanish, but all my work is in english so i'll just stick with it for consistency.
