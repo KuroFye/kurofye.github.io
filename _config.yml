@@ -62,7 +62,7 @@ kramdown:
   input: GFM
   auto_ids: true
 
-highlighter: pygments
+highlighter: rouge
 
 permalink: /:title/
 
