@@ -1,0 +1,39 @@
+---
+title: Arcana
+layout: default
+---
+	
+<!-- Main -->
+	<section class="wrapper style1">
+		<div class="container">
+			<div class="row double">
+				<div class="3u">
+					{% include charon_sidebar.html %}
+				</div>
+				<div class="8u">
+					<div id="content">
+
+						<!-- Blog -->
+							<section>
+								<header class="major">
+									<h3>Posts</h3>
+								</header>
+								{% for entry in site.charon_relay offset: 0 limit: 5 %}
+																			
+										<div class="box post">
+											<div class="inner">
+												<h3>{{ entry.title }}</h3>
+												{{ entry.excerpt }}
+												<footer>
+													<a href="{{ site.baseurl }}{{ entry.url }}" class="button">Continue Reading</a>
+												</footer>
+											</div>
+										</div>										
+									
+								{% endfor %}
+							</section>				
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>			

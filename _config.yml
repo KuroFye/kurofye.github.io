@@ -1,6 +1,10 @@
 #
 # This file contains configuration flags to customize your site
 #
+collections:
+  charon_relay:
+    output: true
+
 
 # Name of your site (displayed in the header)
 name: Angus Pollmann portfolio
