@@ -61,9 +61,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-  syntax_highlighting: rouge
 
-highlighter: rouge
+highlighter: pygments
 
 permalink: /:title/
 
