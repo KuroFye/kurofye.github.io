@@ -37,10 +37,10 @@ I like to keep a list of games i've played, because i believe they're a good sou
 |Infamous 1/2/Second Son/First Light|
 |Mass effect 1/2/3|
 |Dishonored|
-|Unreal Tournament 2000/2004/III|
+|Unreal Tournament 2000/2004/3|
 |Life is Strange|
 |Zeno Clash 1|
-|The Witcher 1/2/3|
+|The witcher 1/2/3|
 |Elder Scrolls Skyrim|
 |Red Faction Guerrilla/Armageddon|
 |Prototype 1/2|
@@ -50,15 +50,14 @@ I like to keep a list of games i've played, because i believe they're a good sou
 |GTA Vice City|
 |Legend Of Korra|
 |Tales of Symphonia 2|
-|Fable 1/3/Remastered(i'm not sorry)|
+|Fable 1/3/Remastered|
 |Dead Rising 2/3|
-|Digimon World 1/3/Re:Digitize|
-|Ragnarok Online (way too many hours)|
+|Digimon World 1/3|
+|Ragnarok Online|
 |Amazing Spiderman 1/2|
 |Duke Nukem Forever|
 |From Dust|
 |Game of Thrones game (RPG)|
-|Game of Thrones Telltale|
 |The Walking Dead (telltale) 1/2|
 |the Wolf among Us|
 |Hard Reset|
@@ -77,10 +76,7 @@ I like to keep a list of games i've played, because i believe they're a good sou
 |Borderlands 1/2|
 |Metal Gear Rising|
 |Sims 1/2/3/Medieval|
-|Lego Star wars 1/2, the clone wars|
-|Lego indiana johnes|
-|Lego Marvel|
-|Lego Avengers|
+|Lego Star wars 1/2, the clone wars, indiana jhones|
 |Jade Empire|
 |Saint's Row 4/Gat out of hell|
 |Starcraft 1/2 wings of liberty|
@@ -90,7 +86,7 @@ I like to keep a list of games i've played, because i believe they're a good sou
 |Vanquish|
 |Plants vs Zombies 1/2/Garden Warfare/GW2|
 |Pokemon (black/emerald/red leaf?)|
-|Pepsiman (yes, PSX)|
+|Pepsiman|
 |Final Fantasy Tactics (Lion War)|
 |Legend of the Dragoon|
 |Final Fantasy VII|
@@ -108,5 +104,14 @@ I like to keep a list of games i've played, because i believe they're a good sou
 |Hokuto Musou|
 |Gundam Musou|
 |Tales of Vesperia|
-|Spore/galactic adventures|
+|Spore|
 |Black & White 1 and 2|
+|Metal Gear Solid: Ground Zeroes/the twin snakes|
+|Journey|
+|Super Smash Bros/melee/brawl|
+|Rayman|
+|Thief|
+|Saint Seiya Musou/soldier soul/soul of gold|
+|Game of Thrones (Telltale)|
+
+
