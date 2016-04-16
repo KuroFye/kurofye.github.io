@@ -57,6 +57,10 @@ baseurl: ""
 #
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  auto_ids: true
 highlighter: rouge
 permalink: /:title/
 
