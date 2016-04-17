@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: charon_post
 title: Mass Effect - The Charon Relay
 summary: Fan-made non-profitable tabletop RPG adaptation
 ---
@@ -16,7 +16,7 @@ There are also Weight mechanics and non-combat related talent points besides reg
 
 All these changes and new mechanics and changes do require some more ruling than the original Fantasy AGE, but to keep the original spirit of a fast-paced and easy-to-learn game, most of these new rules are common bonuses or only apply when improving your character.
 
-![alt text](http://pre15.deviantart.net/b24e/th/pre/i/2015/331/5/9/mass_effect_rpg_1_by_martingust-d9i660v.jpg "Made by Martin Gust")
+<span class="image featured"><img src="{{ site.baseurl }}/images/charon_cover.jpg" alt=""/></span>
 
-Thanks to [Martin Gust](http://martingust.deviantart.com/)
+This is the front cover made by [Martin Gust](http://martingust.deviantart.com/) for this adaptation, nothing gives more life to a game than great artwork, thanks a lot man <3
 
