@@ -5,6 +5,20 @@ summary: Fan-made non-profitable tabletop RPG adaptation
 ---
 Made only for the fans of both tabletop RPG and Mass Effect games, this adaptation is based on the Fantasy AGE system by [Green Ronin](http://greenronin.com/) and is used for  Dragon Age, Fantasy AGE, Blue Rose and Titansgrave games.
 
+### What do i need to play?
+I don't own any license here, except for what i put together, so it's all free, just make sure to link whoever you send the game to this page c: .
+
+To play, you'll need the book (in the download section to your right), character and power sheets (both in the end of the book, and also in a separated link in the download section). 
+
+Also, you'll need some dice, three six-sided dice, at last three ten-sided dice (they're actually optional, but help to make the combat flow a bit faster), and a 20 sided dice (for the critical hits).
+
+A lot of people like playing with figurines and a map, and i really recommend it as it helps visualize the battlefield. There are no rules for this, except that it should be squared. I understand hexagonal grids are great for distances, but they don't work well when cover is involved.  
+
+### Games that inspired the adaptation
+The most obvious are Fantasy AGE and Mass Effect 1. There are also a few differences between the tabletop Dragon Age RPG and the Fantasy AGE that allowed me to understand better the game mechanics and system. 
+
+The combat for the game is based on the XCOM gameplay and Mass Effect 3 mechanics (ME1 and ME3 combat mechanics are very different).
+
 ### What's the game about?
 The original Fantasy AGE is meant for a less-tactical faster-peaced gameplay in Combat, Exploration and Interpretation encounters, and is set in a little-to-none technology ambientation (except Titansgrave, but it's still scarce in the world).
 

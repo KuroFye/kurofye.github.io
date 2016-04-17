@@ -18,19 +18,22 @@ layout: default
 								<header class="major">
 									<h3>Posts</h3>
 								</header>
-								{% for entry in site.charon_relay offset: 0 %}
+								{% for post in site.charon_relay reversed limit: 5 %}
 																			
 										<div class="box post">
 											
-												<h3>{{ entry.title }}</h3>
-												{{ entry.excerpt }}
+												<h3>{{ post.title }}</h3>
+												{{ post.excerpt }}
 												<footer>
-													<a href="{{ site.baseurl }}{{ entry.url }}" class="button">Continue Reading</a>
+													<a href="{{ site.baseurl }}{{ post.url }}" class="button">Continue Reading</a>
 												</footer>
 											
 										</div>										
 									
 								{% endfor %}
+								<div class="infinite-spinner">
+									
+								</div>
 							</article>				
 					</div>
 				</div>
