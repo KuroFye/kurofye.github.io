@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Medigel
+date: 2015-1-16
+fecha: 8 Aug 2015
 ---
 Finally i decided the details about the Medi-Gel, each player will be able to carry a maximum of 2 Medi-Gel packs to freely use in battle, thus limiting it to revive teammates or tight situations.
 

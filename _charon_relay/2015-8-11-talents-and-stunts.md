@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Talents, stunts and powers
+date: 2015-1-13
+fecha: 11 Aug 2015
 ---
 I was about to start making the Stunts when i found out that i really don’t know what should i use as Stunt and what as Power, so i’ll just write everything down (Mass Effect powers, XCOM abilities and AGE talents and character growth skills) and compare them all to decide.
 

@@ -4,7 +4,9 @@
 collections:
   charon_relay:
     output: true
-
+    
+paginate: 5
+paginate_path: "/charon_relay/page:num/"
 
 # Name of your site (displayed in the header)
 name: Angus Pollmann portfolio
@@ -79,6 +81,7 @@ sass:
 gems:
   - jekyll-redirect-from  # Just use 'redirect_from: "/foo"' on the YAML header
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:

@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Class limitations
+date: 2015-1-11
+fecha: 23 Aug 2015
 ---
 I had a thought of “why adepts don’t learn Charge? they are literally the masters of Biotics” and “why don’t engineers use Tactical Cloak? they are literally the masters of technology”. 
 

@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Rethink about heat and combos
+date: 2015-1-15
+fecha: 9 Aug 2015
 ---
 I played Mass Effect 1 a bit, took notes on how did the Shield system worked, the power recharge and the weapon’s overheat. 
 

@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Class functions
+date: 2015-1-12
+fecha: 13 Aug 2015
 ---
 I realize what i was missing. Class Function. Deal damage, maintain position, support, suppress enemy advance, etc. 
 

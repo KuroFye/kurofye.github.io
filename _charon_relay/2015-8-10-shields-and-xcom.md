@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: More xcom and ME review
+date: 2015-1-14
+fecha: 10 Aug 2015
 ---
 Reviewing the basic things you want to do can really refresh your perspective. I played ME1, 2 and 3 a bit, and some XCOM. I will be using the XCOM classes skills, some as Stunts, some as Powers.
 

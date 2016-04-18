@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Biotic powers
+date: 2015-1-10
+fecha: 25 Aug 2015
 ---
 All right, i finished the Talents today, also i finished the leveling-up skills for the Engineer and the Adept and the Stunt Bonuses for everyone. 
 

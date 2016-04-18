@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: XCOM combat
+date: 2015-1-18
+fecha: 6 Aug 2015
 ---
 Decided that the regular AGE battle system was just not quite right with the way a gunfire combat is played out, so i decided to take the X-COM: Enemy Unknown game mechanic as a baseline for the combat encounters in Mass Effect.
 

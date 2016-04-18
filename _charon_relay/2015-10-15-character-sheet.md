@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Character sheet and paragon/renegade
+date: 2015-1-7
+fecha: 15 Oct 2015
 ---
 Already designing the Character Sheet with the help and teachings of a friend while finishing up the last powers, and i realized i have to put all the powers in the structure i made for them which will take me a while but it’ll allow me to review them. 
 

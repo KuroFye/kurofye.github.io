@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Character growth
+date: 2015-1-4
+fecha: 28 Oct 2015
 ---
 I had a HUGE overlook at the very beginning while designing the primary/secondary stats, i didn’t relate them to expected character growth, equipment limitations, equipment bonuses, powers and expected damage output, so now i’m examining them over again. 
 

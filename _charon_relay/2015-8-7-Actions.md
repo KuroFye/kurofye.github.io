@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Actions and medigel
+date: 2015-1-17
+fecha: 7 Aug 2015
 ---
 Did most Major and Minor actions, including the XCOM Hunker Down and Overwatch, changed some of the others. 
 

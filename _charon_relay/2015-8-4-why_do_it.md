@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Why do this adaptation?
+date: 2015-1-20
+fecha: 4 Aug 2015
 ---
 Well, first of all, obviously, because i love the Mass Effect Universe.
 

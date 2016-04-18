@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Charater sheet and morality
+date: 2015-1-5
+fecha: 26 Oct 2015
 ---
 The main Character Sheet for casual game is completely done, also made a power card (very likely the ones found in DA for the magics) and started doing the back of the character sheet, which is optional. 
 

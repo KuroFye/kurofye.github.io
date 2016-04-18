@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Damage calibration
+date: 2015-1-3
+fecha: 30 Oct 2015
 ---
 Further modifications to the damage formula now allow me to try it for power-focused classes and weapon/powers classes at the same time and see how much damage they deal at level 1 and at level 20 (approximately obviously).
 

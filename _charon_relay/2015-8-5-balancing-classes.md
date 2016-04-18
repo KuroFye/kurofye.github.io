@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Understanding classes
+date: 2015-1-19
+fecha: 5 Aug 2015
 ---
 Finished the classes, balanced the Infiltrator a bit. 
 

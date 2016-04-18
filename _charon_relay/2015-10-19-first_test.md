@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: First test
+date: 2015-1-6
+fecha: 19 Oct 2015
 ---
 Today was testing the core mechanics and combat flow day, it worked nice and flowed as intended. 
 

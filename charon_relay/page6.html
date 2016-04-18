@@ -18,7 +18,7 @@ layout: default
 								<header class="major">
 									<h3>Posts</h3>
 								</header>
-								{% for post in site.charon_relay limit: 5 %}
+								{% for post in site.charon_relay limit: 5 offset: 25 %}
 																			
 										<div class="box post">
 											
@@ -34,8 +34,9 @@ layout: default
 							</article>
 							<!-- Pagination links -->
 						<div class="pagination">
-						  <span class="page_number ">Page: 1 of 6</span>
-						    <a href="{{ site.baseurl }}/charon_relay/page2" class="next ">Next</a>
+							<a href="{{ site.baseurl }}/charon_relay/page5" class="next ">Previous </a>
+						  <span class="page_number ">Page: 6 of 6</span>
+						    <a href="{{ site.baseurl }}/charon_relay/page6" class="next ">Next</a>
 						</div>
 					</div>
 				</div>

@@ -1,6 +1,8 @@
 ---
 layout: charon_post
 title: Powers and damage
+date: 2015-1-9
+fecha: 15 Sept 2015
 ---
 I finished the Tech Powers, it took me a lot of time but i ended up with 64 powers, including utility and combat focused powers.
 
