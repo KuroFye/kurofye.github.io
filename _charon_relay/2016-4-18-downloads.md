@@ -10,8 +10,6 @@ Book in PDF and all extra sheets downloads
 
 Right now the book is not yet finished, but is playable. Chapters 1 to 5 have all the rules and powers, but the remaining chapters have more on how to build a campaign, how to carry combat for the GM, the lore in case you want to print it for your personal use (or don't have a stable internet) and some more advice.
 
-<span class="image featured"><img src="{{ site.baseurl }}/images/charon_cover.jpg" alt=""/></span>
-
 [Mass Effect-The Charon Relay](https://drive.google.com/file/d/0BxdntDYpu5XQdHgyOThGRXA2ODA/view?usp=sharing) This link will get updated as more chapters of the book are developed.
 
 ### Disclaimer
