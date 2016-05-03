@@ -10,6 +10,8 @@ Book in PDF and all extra sheets downloads
 
 Right now the book is not yet finished, but is playable. Chapters 1 to 5 have all the rules and powers, but the remaining chapters have more on how to build a campaign, how to carry combat for the GM, the lore in case you want to print it for your personal use (or don't have a stable internet) and some more advice.
 
+<span class="image"><img src="{{ site.baseurl }}/images/portada_small.jpg" alt=""/></span>
+
 [Mass Effect-The Charon Relay](https://drive.google.com/file/d/0BxdntDYpu5XQdHgyOThGRXA2ODA/view?usp=sharing) This link will get updated as more chapters of the book are developed.
 
 ### Disclaimer
@@ -21,6 +23,8 @@ As for the images, i've personally asked permission to each and every single art
 ## Character Sheets
 
 The character sheet better fits a legal size print. How to better use the sheet is explained in the book.
+
+<span class="image"><img src="{{ site.baseurl }}/images/character_sheet_small.png" alt=""/></span>
 
 [Charon Relay Character Sheet](https://drive.google.com/file/d/0BxdntDYpu5XQRUpHamdGOHlkclU/view?usp=sharing)
 
@@ -38,11 +42,15 @@ Reference for powers are meant to be already calculated. For example, if you dea
 
 [Power sheet](https://drive.google.com/file/d/0BxdntDYpu5XQYUdSeXdaTzZrRWM/view?usp=sharing)
 
+<span class="image"><img src="{{ site.baseurl }}/images/power_sheet_small.jpg" alt=""/></span>
+
 ### Playmat
 
 Also meant to be printed in legal sized paper and used side-ways. It's just to note the HP, ammo clips, medigel and grenades in battle, works wonders if you plastify it and use a whiteboard pen.
 
 [Playmat sheet](https://drive.google.com/file/d/0BxdntDYpu5XQaW45ZWd4ZnMySjA/view?usp=sharing)
+
+<span class="image"><img src="{{ site.baseurl }}/images/playmat_small.png" alt=""/></span>
 
 
 
