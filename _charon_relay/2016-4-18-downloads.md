@@ -18,7 +18,7 @@ Right now the book is not yet finished, but is playable. Chapters 1 to 5 have al
 
 Please keep in mind that it's meant to be freely distributed as a work of a fan.
 
-As for the images, i've personally asked permission to each and every single artist, but not all of them has sent a response. Currently 69% of the pictures are from authors that have agreed to appear in the book, and 63% of all the artists have answered. They are all credited, even the ones that still have not answered. If you own any of this images and don't want your work to be on the book, please send me an email and i'll fix it right away.
+As for the images, i've personally asked permission to each and every single artist, but not all of them has sent a response. Currently 71% of the pictures are from authors that have agreed to appear in the book, and 65% of all the artists have answered. They are all credited, even the ones that still have not answered. If you own any of this images and don't want your work to be on the book, please send me an email and i'll fix it right away.
 
 ## Character Sheets
 
