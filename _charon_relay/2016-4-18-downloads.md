@@ -40,18 +40,14 @@ Keep in mind that only Sentinels use both recharge dices, and that when you're b
 
 Reference for powers are meant to be already calculated. For example, if you deal 3D6+ Weapon Damage with a power, don't write "Weapon Damage", just put the numbers (so 5D6+4 for example). This does mean you'll have to update your powers, but that's only when you level up or obtain a more powerful weapon.
 
-[Power sheet](https://drive.google.com/file/d/0BxdntDYpu5XQYUdSeXdaTzZrRWM/view?usp=sharing)
-
 <span class="image"><img src="{{ site.baseurl }}/images/power_sheet_small.jpg" alt=""/></span>
+
+[Power sheet](https://drive.google.com/file/d/0BxdntDYpu5XQYUdSeXdaTzZrRWM/view?usp=sharing)
 
 ### Playmat
 
 Also meant to be printed in legal sized paper and used side-ways. It's just to note the HP, ammo clips, medigel and grenades in battle, works wonders if you plastify it and use a whiteboard pen.
 
-[Playmat sheet](https://drive.google.com/file/d/0BxdntDYpu5XQaW45ZWd4ZnMySjA/view?usp=sharing)
-
 <span class="image"><img src="{{ site.baseurl }}/images/playmat_small.png" alt=""/></span>
 
-
-
-
+[Playmat sheet](https://drive.google.com/file/d/0BxdntDYpu5XQaW45ZWd4ZnMySjA/view?usp=sharing)
