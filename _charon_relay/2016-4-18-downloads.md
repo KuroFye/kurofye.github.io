@@ -2,7 +2,7 @@
 layout: charon_post
 title: Downloads
 date: 2014-1-3
-fecha: 2 May 2016
+fecha: Updated November 7, 2016
 ---
 Book in PDF and all extra sheets downloads
 
@@ -12,13 +12,13 @@ Right now the book is not yet finished, but is playable. Chapters 1 to 5 have al
 
 <span class="image"><img src="{{ site.baseurl }}/images/portada_small.jpg" alt=""/></span>
 
-[Mass Effect-The Charon Relay](https://drive.google.com/file/d/0BxdntDYpu5XQdHgyOThGRXA2ODA/view?usp=sharing) This link will get updated as more chapters of the book are developed.
+[Mass Effect-The Charon Relay](https://drive.google.com/file/d/0BxdntDYpu5XQdHVUdTJQU3haY0E/view?usp=sharing) This link will get updated as more chapters of the book are developed.
 
 ### Disclaimer
 
 Please keep in mind that it's meant to be freely distributed as a work of a fan.
 
-As for the images, i've personally asked permission to each and every single artist, but not all of them has sent a response. Currently 71% of the pictures are from authors that have agreed to appear in the book, and 65% of all the artists have answered. They are all credited, even the ones that still have not answered. If you own any of this images and don't want your work to be on the book, please send me an email and i'll fix it right away.
+As for the images, i've personally asked permission to each and every single artist, but not all of them has sent a response. Currently 76% of the pictures are from authors that have agreed to appear in the book, and 66% of all the artists have answered. They are all credited, even the ones that still have not answered. If you own any of this images and don't want your work to be on the book, please send me an email and i'll fix it right away.
 
 ## Character Sheets
 
@@ -51,3 +51,19 @@ Also meant to be printed in legal sized paper and used side-ways. It's just to n
 <span class="image"><img src="{{ site.baseurl }}/images/playmat_small.png" alt=""/></span>
 
 [Playmat sheet](https://drive.google.com/file/d/0BxdntDYpu5XQaW45ZWd4ZnMySjA/view?usp=sharing)
+
+### Quick reference cards
+
+Meant to be printed like the others. It's meant to be filled by the GM when creating characters to be NPCs or enemies and keep the most important statistics at hand. There is a large version for specially complex enemies, like Banshees or other bosses.
+
+<span class="image"><img src="{{ site.baseurl }}/images/quick_reference.png" alt=""/></span>
+
+[Quick reference card regular](https://drive.google.com/file/d/0BxdntDYpu5XQQTJTX3NqUTk2Zzg/view?usp=sharing)
+
+[Quick reference card large](https://drive.google.com/file/d/0BxdntDYpu5XQTE5kZm1wNGlDdU0/view?usp=sharing)
+
+### Combat Resume sheet
+
+Meant to be given one copy to each player and GM, as it holds a resume of most of the game's combat rules and stunts.
+
+[Combat Resume sheet](https://drive.google.com/file/d/0BxdntDYpu5XQV0dQeko5YlVaZFk/view?usp=sharing)
