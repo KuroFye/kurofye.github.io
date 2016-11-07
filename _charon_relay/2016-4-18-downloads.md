@@ -8,7 +8,9 @@ Book in PDF and all extra sheets downloads
 
 ## Core Rulebook (PDF)
 
-Right now the book is not yet finished, but is playable. Chapters 1 to 5 have all the rules and powers, but the remaining chapters have more on how to build a campaign, how to carry combat for the GM, the lore in case you want to print it for your personal use (or don't have a stable internet) and some more advice.
+Finally the first release of the book! I truly welcome any feedback you may have, possitive and negative, so contact me on email or facebook c: i'll work on a tumblr and facebook page if enough interest in the project is made.
+
+Here's the link to the complete book, it has all the extra sheets and pages showed in this page attached at the end of the PDF, in case someone wants to print it.
 
 <span class="image"><img src="{{ site.baseurl }}/images/portada_small.jpg" alt=""/></span>
 
