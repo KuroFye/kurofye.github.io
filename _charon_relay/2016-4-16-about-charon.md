@@ -2,7 +2,7 @@
 layout: charon_post
 title: Mass Effect - The Charon Relay
 summary: Fan-made non-profitable tabletop RPG adaptation
-date: 2014-1-1
+date: 2016-12-30
 fecha: 16 Apr 2016
 ---
 Made only for the fans of both tabletop RPG and Mass Effect games, this adaptation is based on the Fantasy AGE system by [Green Ronin](http://greenronin.com/) and is used for  Dragon Age, Fantasy AGE, Blue Rose and Titansgrave games.
