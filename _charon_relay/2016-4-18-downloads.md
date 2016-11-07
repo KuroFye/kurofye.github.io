@@ -1,7 +1,7 @@
 ---
 layout: charon_post
 title: Downloads
-date: 2014-1-3
+date: 2016-12-31
 fecha: Updated November 7, 2016
 ---
 Book in PDF and all extra sheets downloads
