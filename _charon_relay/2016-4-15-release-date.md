@@ -1,7 +1,7 @@
 ---
 layout: charon_post
 title: Finally first release!
-date: 2014-1-1
+date: 2015-12-31
 fecha: November 7, 2016
 ---
 Life is far from predictable, and these have been a lot of crazy months. Still here we are! finally with a release, with a version of the game i'm actually confortable with.
