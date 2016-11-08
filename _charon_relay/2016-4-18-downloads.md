@@ -14,7 +14,13 @@ Here's the link to the complete book, it has all the extra sheets and pages show
 
 <span class="image"><img src="{{ site.baseurl }}/images/portada_small.jpg" alt=""/></span>
 
+--commented--
+<!---
 [Mass Effect-The Charon Relay](https://drive.google.com/file/d/0BxdntDYpu5XQdHVUdTJQU3haY0E/view?usp=sharing) This link will get updated as more chapters of the book are developed.
+-->
+
+## EDIT:
+Mr. Pramas himself asked me to take it down for the week, but i'll still answer in my email in case anyone already has it, will update with what happens afterwards.
 
 ### Disclaimer
 
