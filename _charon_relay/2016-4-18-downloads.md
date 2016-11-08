@@ -6,7 +6,8 @@ fecha: Updated November 7, 2016
 ---
 Book in PDF and all extra sheets downloads
 
-## Core Rulebook (PDF)<!---
+## Core Rulebook (PDF)
+<!---
 [Mass Effect-The Charon Relay](https://drive.google.com/file/d/0BxdntDYpu5XQdHVUdTJQU3haY0E/view?usp=sharing) This link will get updated as more chapters of the book are developed.
 -->
 
