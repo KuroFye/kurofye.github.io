@@ -18,7 +18,7 @@ Here's the link to the complete book, it has all the extra sheets and pages show
 
 ### Disclaimer
 
-Please keep in mind that it's meant to be freely distributed as a work of a fan.
+Please keep in mind that it's meant to be freely distributed as a work of a fan. All rights belong to Electronics Arts, Bioware (for Mass Effect) and Green Roning publishing, and the amazing work of Chris Pramas. If you liked it, please get something from [the green ronin store](http://greenroninstore.com/) i personally LOVE the Dragon Age RPG, and Blood in Ferelden is incredible. 
 
 As for the images, i've personally asked permission to each and every single artist, but not all of them has sent a response. Currently 76% of the pictures are from authors that have agreed to appear in the book, and 66% of all the artists have answered. They are all credited, even the ones that still have not answered. If you own any of this images and don't want your work to be on the book, please send me an email and i'll fix it right away.
 
