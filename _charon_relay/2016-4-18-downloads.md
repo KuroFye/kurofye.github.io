@@ -17,7 +17,7 @@ Here's the link to the complete book, it has all the extra sheets and pages show
 
 <span class="image"><img src="{{ site.baseurl }}/images/portada_small.jpg" alt=""/></span>
 
---commented--
+--link commented--
 
 
 ## EDIT:
