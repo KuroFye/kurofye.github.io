@@ -10,15 +10,11 @@ Book in PDF and all extra sheets downloads
 
 Finally the first release of the book! I truly welcome any question and/or feedback you may have, possitive and negative, so contact me on email or facebook c: 
 
-Here's the link to the complete book, it has all the extra sheets and pages showed in this page attached at the end of the PDF, in case someone wants to print it.
+Here's the link to the complete book, it has all the extra sheets and pages showed in this page attached at the end of the PDF, in case someone wants to print it, for personal use only.
 
 <span class="image"><img src="{{ site.baseurl }}/images/portada_small.jpg" alt=""/></span>
 
 [Mass Effect-The Charon Relay](https://drive.google.com/file/d/0BxdntDYpu5XQdHVUdTJQU3haY0E/view?usp=sharing) This link will get updated would anything change.
-
-
-## EDIT:
-Mr. Pramas himself asked me to take it down for the week, but i'll still answer in my email in case anyone already has it, will update with what happens afterwards.
 
 ### Disclaimer
 
