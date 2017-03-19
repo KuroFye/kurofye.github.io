@@ -46,6 +46,14 @@ Reference for powers are meant to be already calculated. For example, if you dea
 
 [Power sheet](https://drive.google.com/file/d/0BxdntDYpu5XQYUdSeXdaTzZrRWM/view?usp=sharing)
 
+### Vertical Power Sheet
+
+As requested i made a vertical power sheet, both letter and legal size.
+
+[Vertical Power Sheet - Letter](https://drive.google.com/open?id=0BxdntDYpu5XQSUh0WllqUDJ0UXc)
+
+[Vertical Power Sheet - Legal](https://drive.google.com/open?id=0BxdntDYpu5XQZWhQeDJvbnl4UE0)
+
 ### Playmat
 
 Also meant to be printed in legal sized paper and used side-ways. It's just to note the HP, ammo clips, medigel and grenades in battle, works wonders if you plastify it and use a whiteboard pen.
@@ -69,3 +77,19 @@ Meant to be printed like the others. It's meant to be filled by the GM when crea
 Meant to be given one copy to each player and GM, as it holds a resume of most of the game's combat rules and stunts.
 
 [Combat Resume sheet](https://drive.google.com/file/d/0BxdntDYpu5XQV0dQeko5YlVaZFk/view?usp=sharing)
+
+## Game Master Screen
+
+I'm very sorry it's ugly, i'll try to improve the spacing, but it's meant to be printed horizontally and has most rules, including every stunt and effect. 
+
+It only has the "inside" of a GM Screen because i don't have any artwork that would fit the panoramic image needed, would anyone have one or wishes to draw one for the screen, please send it to my email and i'll be very happy to add it and thank you in any way you want.
+
+[Game Master Screen](https://drive.google.com/open?id=0BxdntDYpu5XQTTVzOFg1SmNBSkE)
+
+## Change log
+A more detailed version of the changes are in the project blog.
+
+### 3/19/2017
+Added a vertical print-friendly power sheet in both letter and legal sizes as requested by a fan
+Added an ugly, jet small, printable horizontal, letter-sized GM screen as requested by fan
+
