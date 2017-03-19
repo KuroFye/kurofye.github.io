@@ -87,9 +87,20 @@ It only has the "inside" of a GM Screen because i don't have any artwork that wo
 [Game Master Screen](https://drive.google.com/open?id=0BxdntDYpu5XQTTVzOFg1SmNBSkE)
 
 ## Change log
-A more detailed version of the changes are in the project blog.
+A resume with any changes made to the book will be posted here when a new version shows up.
 
 ### 3/19/2017
+
+Frezing Effect now keeps freezed targets for a fixed amount of turns instead of half willpower, as the effect was too complicated.
+
+Shield Recharge passively during combat ruling deleted, because it incited passive gameplay and further extended the already long time of combat encounters. And was too difficult to keep track.
+
+Power Combo now allows for the same target to be primed by more than one Explosion at the same time, because Power Combos are already difficult to make as is and are a Stunt after all, they're supposed to be game changing.
+
+Minor typos fixed as requested.
+
 Added a vertical print-friendly power sheet in both letter and legal sizes as requested by a fan
-Added an ugly, jet small, printable horizontal, letter-sized GM screen as requested by fan
+
+Added an ugly, jet small, printable horizontal, letter-sized GM screen as requested by fan.
+
 
