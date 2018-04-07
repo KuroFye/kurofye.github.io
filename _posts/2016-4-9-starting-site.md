@@ -4,8 +4,7 @@ title: Finally starting!
 summary: what is this site about
 ---
 
-I've been about to start this site many times, but i didn't wanted to do so before i had something to show as my own work. And now i have.
-<span class="image featured"><img src="http://i.imgur.com/hbm0cPy.gif"/></span>
+I've been about to start this site many times, but i didn't wanted to do so before i had something to show as my own work. And now i have :D .
 
 This is a site about my work as game designer and the progress of my projects, as well as a place to keep the links to where they're stored (and their corresponding updates). It will not be updated very often, but when progress has been made or there's something important going on.
 

@@ -3,51 +3,86 @@
   <channel>
     <title>Angus Pollmann portfolio</title>
     <description>game/mechanics/gameplay designer</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>My work with MOTIONS</title>
+        <description>&lt;p&gt;All of my undergraduate thesis, that lasted for 2 semesters, was done on developing MOTIONS inside Unity3D. It is a researcher-oriented platform that allows the user to perform different kinds of evaluations on human-information interaction using a wide variety of interfaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/mot1.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+You can learn more about the proyect &lt;a href=&quot;http://motions.informatica.usach.cl/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I did not started the whole system on my own, i started on the undergraduate thesis VORTICES of my colleague Esteban Gaete and made his software architecture more modular, extended his functionalities, developed a more user-oriented and code-free configuration UI and added support for &lt;a href=&quot;https://www.emotiv.com/&quot;&gt;Emotiv Insight&lt;/a&gt; and &lt;a href=&quot;https://store.neurosky.com/pages/mindwave&quot;&gt;NeuroSky: Mindwave&lt;/a&gt; portables EEG as well as eye-tracking with the now vanished EyeTribe.&lt;/p&gt;
+
+&lt;p&gt;Besides from developing the plugins for the aforementioned devices i also created a software structure that allows for new visualizations, environments, objects and interfaces to be added as independent as possible from the rest of the code, so each new addition to the system do not affect the work already done on the project.&lt;/p&gt;
+
+&lt;p&gt;As there are no fixed inputs (because the idea is to try new ways to interact with information) i also created a system that allows any hardware (or software) input to be paired to any action in the system by the user, without touching any code and during execution time. For example, keyboard, mouse and mental statuses are all input that can trigger different actions in the system. Actions can be to zoom into an image, rotate the sphere showing the images (as shown below) and so on.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/mot3.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Configuration to pair any inputs to any action.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/mot2.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Sphere of loaded images, work of Esteban Gaete.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My full work will be available online as soon as the final version is greenlighted by the commision assigned by the University.&lt;/p&gt;
+
+&lt;p&gt;Any question regarding working with EEG, Eye Tracking or the system’s structure please feel free to contact me, happy to help!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Apr 2018 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/motions-development/</link>
+        <guid isPermaLink="true">http://localhost:4000/motions-development/</guid>
+      </item>
     
       <item>
         <title>Contact</title>
         <description>&lt;p&gt;Please feel free to contact me for any question regarding any of my projects or a project you may want my collaboration with. Will respond mail in 24h. If you simply want to friend me on facebook or ask an unrelated question, be my guest :) .&lt;/p&gt;
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#097;&amp;#102;&amp;#097;&amp;#114;&amp;#105;&amp;#055;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#116;&amp;#097;&amp;#102;&amp;#097;&amp;#114;&amp;#105;&amp;#055;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;
+&lt;p&gt;Email: &lt;a href=&quot;mailto:tafari77@gmail.com&quot;&gt;tafari77@gmail.com&lt;/a&gt;
 Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;facebook.com/wesker.beoulve&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Apr 2016 00:00:00 -0300</pubDate>
-        <link>/contact/</link>
-        <guid isPermaLink="true">/contact/</guid>
+        <link>http://localhost:4000/contact/</link>
+        <guid isPermaLink="true">http://localhost:4000/contact/</guid>
       </item>
     
       <item>
         <title>About me</title>
-        <description>&lt;p&gt;My name is Angus Pollmann, 24, born and raised in Chile. My mother language is Spanish, but all my work is in english so i&#39;ll just stick with it for consistency.&lt;/p&gt;
+        <description>&lt;p&gt;My name is Angus Pollmann, 26, born and raised in Chile. My mother language is Spanish, but all my work is in english so i'll just stick with it for consistency.&lt;/p&gt;
+
+&lt;p&gt;Also here's my resume, in a Character Sheet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/open?id=1p_RXBz5O6oOVgdu1TYTPSeUydY0Z1Chm&quot;&gt;Yes, it’s a Character Sheet&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;formation&quot;&gt;Formation&lt;/h2&gt;
-&lt;p&gt;My studies are a last year university career and self-taught. There are no &quot;bachelor degree&quot; in Chile, but an equivalent of my university career would be a bachelor of business information systems (science in information technology + business study).&lt;/p&gt;
+&lt;p&gt;My studies are a universitary and self-taught. There are no &quot;bachelor degree&quot; in Chile, but an equivalent of my university career would be a bachelor of business information systems (science in information technology + business study).&lt;/p&gt;
 
-&lt;p&gt;On my own i&#39;ve studied as much as i can, programming, game design theory, writting, psychology, philosophy, systems, mechanics, some level and graphic design, and will keep learning as long as i have time.&lt;/p&gt;
+&lt;p&gt;On my own i've studied as much as i can, programming, game design theory, writting, psychology, philosophy, systems, mechanics, some level and graphic design, and will keep learning as long as i have time.&lt;/p&gt;
 
 &lt;h2 id=&quot;why-game-design&quot;&gt;Why game design?&lt;/h2&gt;
-&lt;p&gt;I want to dedicate myself to make games, because i love it. I can&#39;t stop thinking about it, i don&#39;t ever get tired of it. Doesn&#39;t matter if it is a mechanic, some balance that needs to be done, a new idea for the story or about the player experience, i love the game as a whole experience. If i&#39;m to do something for the rest of my life, i&#39;ll do something i love, doesn&#39;t matter how much i have to work for it.&lt;/p&gt;
+&lt;p&gt;I want to dedicate myself to make games, because i love it. I can't stop thinking about it, i don't ever get tired of it. Doesn't matter if it is a mechanic, some balance that needs to be done, a new idea for the story or about the player experience, i love the game as a whole experience. If i'm to do something for the rest of my life, i'll do something i love, doesn't matter how much i have to work for it.&lt;/p&gt;
 
-&lt;p&gt;I understand that to be a great game designer means to learn about everything (communication with people, programming, computers, math, systems, mechanics, levels, psychology, philosophy, history, literature, myths, religions, graphic design, architecture, music, art, design, anthropology, phisics..), and i&#39;m not afraid, but thrilled.&lt;/p&gt;
+&lt;p&gt;I understand that to be a great game designer means to learn about everything (communication with people, programming, computers, math, systems, mechanics, levels, psychology, philosophy, history, literature, myths, religions, graphic design, architecture, music, art, design, anthropology, phisics..), and i'm not afraid, but thrilled.&lt;/p&gt;
 
 &lt;h2 id=&quot;things-i-like&quot;&gt;Things i like&lt;/h2&gt;
-&lt;p&gt;I don&#39;t really discriminate videogames by genre or where they come from, as long as they&#39;re good.&lt;/p&gt;
+&lt;p&gt;I don't really discriminate videogames by genre or where they come from, as long as they're good.&lt;/p&gt;
 
-&lt;p&gt;I specially like videogames that are immersive, that allow you to experience like you&#39;re living in another place, another time, another reality. That kind of game that teaches you something about yourself, about the world, about people, that once you&#39;ve finished it, you&#39;re something more. For me, great games will make the players feel like they&#39;ve lived again.&lt;/p&gt;
+&lt;p&gt;I specially like videogames that are immersive, that allow you to experience like you're living in another place, another time, another reality. That kind of game that teaches you something about yourself, about the world, about people, that once you've finished it, you're something more. For me, great games will make the players feel like they've lived again.&lt;/p&gt;
 
-&lt;p&gt;And i also like movies, series (don&#39;t care if they&#39;re occidental or not), books (specially sci-fi), comics (Invincible &amp;lt;3) and of course, Board Games. &lt;/p&gt;
+&lt;p&gt;And i also like movies, series (don't care if they're occidental or not), books (specially sci-fi), comics (Invincible &amp;lt;3) and of course, Board Games. &lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/iroh_tree.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;contact-me&quot;&gt;Contact me&lt;/h2&gt;
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#097;&amp;#102;&amp;#097;&amp;#114;&amp;#105;&amp;#055;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#116;&amp;#097;&amp;#102;&amp;#097;&amp;#114;&amp;#105;&amp;#055;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;
+&lt;p&gt;Email: &lt;a href=&quot;mailto:tafari77@gmail.com&quot;&gt;tafari77@gmail.com&lt;/a&gt;
 Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;facebook.com/wesker.beoulve&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;games-played&quot;&gt;Games played&lt;/h3&gt;
-&lt;p&gt;I like to keep a list of games i&#39;ve played, because i believe they&#39;re a good source of references and/or ideas. These are all i can remember by name at last. And if i have it i might as well share it.&lt;/p&gt;
+&lt;p&gt;I like to keep a list of games i've played, because i believe they're a good source of references and/or ideas. These are all i can remember by name at last. And if i have it i might as well share it.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -60,10 +95,10 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Infamous 1/2/Second Son/First Light&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Mass effect 1/2/3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Mass effect 1/2/3/Andromeda&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Dishonored&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Dishonored / Dishonored 2&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Unreal Tournament 2000/2004/3&lt;/td&gt;
@@ -96,7 +131,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Dying Light&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;GTA Vice City&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;GTA Vice City/V&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Legend Of Korra&lt;/td&gt;
@@ -111,7 +146,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Dead Rising 2/3&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Digimon World 1/3/Re: Digitize&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Digimon World 1/3/Re: Digitize/Next Order&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Ragnarok Online&lt;/td&gt;
@@ -150,7 +185,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Civilization V/Beyond Earth&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Bioshock Infinite&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bioshock 1/Infinite&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Binary Domain&lt;/td&gt;
@@ -162,7 +197,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Back to the Future (telltale)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Batman Arkham Asylum/City/Origins&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Batman Arkham Asylum/City/Origins/Knight&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Crysis 1/2/3&lt;/td&gt;
@@ -198,7 +233,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Warhammer 40k Space Marine&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;XCOM: Enemy Unknown&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;XCOM: Enemy Unknown/ XCOM 2&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Red Dead Redemption&lt;/td&gt;
@@ -207,7 +242,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Vanquish&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Plants vs Zombies 1/2/Garden Warfare/GW2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Plants vs Zombies 1/2/Garden Warfare/GW2/Heroes&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Pokemon (black/emerald/red leaf?)&lt;/td&gt;
@@ -234,7 +269,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Heroes of Might and Magic VI&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Rock of Ages&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Rock of Ages 1/2&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;The Bureau: XCOM Declassified&lt;/td&gt;
@@ -249,7 +284,7 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Strike Suit Zero&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Digimon Masters Online (korean server)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Digimon Masters Online (korean version)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Omega Boost&lt;/td&gt;
@@ -300,9 +335,6 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
       &lt;td style=&quot;text-align: left&quot;&gt;Marvel Avengers Alliance 1/2&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Marvel Ultimate Alliance 1/2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;XMEN Alliance&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -326,18 +358,110 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Lost Planet 2/3&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Firewatch&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;God of War 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DMC Devil May Cry&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Darksiders 1/2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Resident Evil 4/5/6/7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Deus Ex/Deus Ex: Human Revolution/Mankind Divided&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Doom 1/2/DOOM (2016)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Overwatch&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Chrono Cross&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Chrono Trigger&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Diablo 2/3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Star Wars: Force Arena&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Deadpool&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Command &amp;amp; Conquer: Red Alert/Red Alert 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Star Wars: Force Unleashed (wii version)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Trauma Team&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Trauma Center: Under the Knife/2/New Blood&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;No More Heroes 1/2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Eternal Darkness&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Harry Potter (EA series) 1/2/3/7/8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Digimon Story Cyber Sleuth&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;The Technomancer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Uncharted 1 / 2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Horizon: Zero Dawn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Middle-earth: Shadow of Mordor / Shadow of War&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Wolfenstein: The New Order / The New Colossus&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Heavy Rain&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Deadly tower of monsters&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Watch Dogs 1 / 2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Persona 5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Prey&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 10 Apr 2016 00:00:00 -0300</pubDate>
-        <link>/about/</link>
-        <guid isPermaLink="true">/about/</guid>
+        <link>http://localhost:4000/about/</link>
+        <guid isPermaLink="true">http://localhost:4000/about/</guid>
       </item>
     
       <item>
         <title>Finally starting!</title>
-        <description>&lt;p&gt;I’ve been about to start this site many times, but i didn’t wanted to do so before i had something to show as my own work. And now i have.
-&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;http://i.imgur.com/hbm0cPy.gif&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+        <description>&lt;p&gt;I’ve been about to start this site many times, but i didn’t wanted to do so before i had something to show as my own work. And now i have :D .&lt;/p&gt;
 
 &lt;p&gt;This is a site about my work as game designer and the progress of my projects, as well as a place to keep the links to where they’re stored (and their corresponding updates). It will not be updated very often, but when progress has been made or there’s something important going on.&lt;/p&gt;
 
@@ -346,8 +470,8 @@ Facebook: &lt;a href=&quot;https://www.facebook.com/wesker.beoulve&quot;&gt;face
 &lt;p&gt;I will use random images on each post, just so it doesn’t seem too boring as a wall of text.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Apr 2016 00:00:00 -0300</pubDate>
-        <link>/starting-site/</link>
-        <guid isPermaLink="true">/starting-site/</guid>
+        <link>http://localhost:4000/starting-site/</link>
+        <guid isPermaLink="true">http://localhost:4000/starting-site/</guid>
       </item>
     
   </channel>
